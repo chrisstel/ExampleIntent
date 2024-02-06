@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExampleIntent</string>
+    <string name="go">Go!</string>
+    <string name="send">Send</string>
+    <string name="text">Text</string>
+    <string name="enter_email">Enter email</string>
+</resources>
